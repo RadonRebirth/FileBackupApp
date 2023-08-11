@@ -1,0 +1,5 @@
+{
+  "SourceDirectories": ["C:\\meow"],
+  "TargetDirectory": "C:\\Folder",
+  "LogLevel": "Debug"
+}
